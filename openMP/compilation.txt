@@ -1,0 +1,2 @@
+Serial : 	gcc -o serial omp.c
+OpenMP :	gcc -o openmp omp.c -fopenmp
